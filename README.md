@@ -8,6 +8,13 @@ This data comes from a Kaggle dataset, it tracks the on-time performance of US d
 
 The file you must use in creating your data visualizations is the flights.csv file. The other two provided files may be used in conjunction with the flights.csv file, but should not be used alone.
 
+## Questions about Flight Delays and Cancellations
+
+    Q1\ Which airports have the worst delays?
+    Q2\ Which airlines have the worst delays?
+    Q3\ What causes delays?
+    Q4\ What are the countries that cancel flights by months?
+
 A PDF or Markdown report that includes the following sections:
 
     + Links to your dashboards or story
